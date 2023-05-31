@@ -2,13 +2,13 @@
 main:
 
   - title: "About"
-    url: /about
+    url: /about/
     
+  - title: "Research"
+    url: /research/ 
+  
   - title: "Publications"
-    url: /publications/ 
-
-  - title: "Project"
-    url: /teaching/    
+    url: /publications/    
     
   - title: "Award"
     url: /portfolio/
