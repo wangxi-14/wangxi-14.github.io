@@ -7,7 +7,7 @@ author_profile: true
 
 ## First-order Algorithm for Riemannian Online Optimization  
 
-<img width="300" height="300" align="right" margin-left=20px src="../images/1.jpg" />
+<img width="300" height="300" align="right" margin-left=50 src="../images/1.jpg" />
 
 We consider the online optimization on Riemannian manifolds in the full information setting, 
 where a learner sequentially interacts with the environment by observing function values or gradients on a Riemannian manifold.
