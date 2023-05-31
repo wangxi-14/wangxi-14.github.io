@@ -18,7 +18,7 @@ To address the problem, we introduce the Riemannian Online Gradient Descent (R-O
 
 ## Bandit Algorithm for Riemannian Online Optimization  
 
-<img width="400" height="325" align="right" margin-left=50 src="../images/first-order.png" />
+<img width="400" height="325" align="right" margin-left=50 src="../images/reg_final.png" />
 
 We also investigate the problem of Riemannian online optimization under partial information feedback. A typical example is the online optimization problem under bandit feedback. In bandit feedback setting, the learner can only observe the function values of the loss function and do not have access to gradient information, rendering gradient-based optimization algorithms inapplicable. 
 
