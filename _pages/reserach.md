@@ -7,7 +7,7 @@ author_profile: true
 
 ## First-order Algorithm for Riemannian Online Optimization  
 
-<img width="400" height="325" align="right" margin-left=50 src="../images/first-order.png" />
+<img width="375" height="300" align="right" margin-left=50 src="../images/first-order.png" />
 
 We consider the online optimization on Riemannian manifolds in the full information setting, 
 where a learner sequentially interacts with the environment by observing function values or gradients on a Riemannian manifold.
@@ -24,3 +24,7 @@ We also investigate the problem of Riemannian online optimization under partial 
 
 
 In order to address the bandit feedback, we introduce a key technique that leverages the homogeneity of the Riemannian manifold to design a bandit gradient estimator. Based on this, we propose the Riemannian bandit algorithm, which achieves regret bounds of $\mathcal O(T^{3/4})$ and $\mathcal O(T^{2/3})$ for geodesically convex and strongly geodesically convex functions, respectively. Furthermore, we extend our approach to the two-point feedback setting and propose the Riemannian two-point bandit algorithm. The regret bounds of the Riemannian two-point bandit algorithm are shown to be $\mathcal O(\sqrt{T})$ and $\mathcal O(\log T)$ for geodesically convex and strongly geodesically convex functions, respectively, which coincides with the order in the full information setting.
+
+## Riemannian Optimistic Algorithm
+
+
