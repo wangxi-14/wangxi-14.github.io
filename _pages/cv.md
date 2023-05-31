@@ -6,4 +6,4 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<a href="../files/paper1.pdf" download="cv.pdf">点击下载</a>  
+<a href="../files/paper1.pdf" download="cv.pdf">Download</a>  
