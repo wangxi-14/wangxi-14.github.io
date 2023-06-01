@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is **Xi Wang (王溪)**,  I am a Phd candidate in Operational Research and Control Theory, at the [Academy of Mathematics and Systems Science](http://english.amss.cas.cn/), Chinese Academy of Sciences, under the supervision of Professor [Yiguang Hong](http://lsc.amss.ac.cn/~yghong/index.html). Prior to this, I obtained a Bachelor's degree in Mathematics and Applied Mathematics from the University of Chinese Academy of Sciences in 2018. I am now a visit student at the [Australian Centre for Field Robotics](https://www.sydney.edu.au/engineering/our-research/robotics-and-intelligent-systems/australian-centre-for-field-robotics.html), University of Sydney, under the supervision of Associate Professor [Guodong Shi](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/guodong-shi.html).
+My name is **Xi Wang (王溪)**. I am a Phd. candidate in Operational Research and Control Theory, at the [Academy of Mathematics and Systems Science](http://english.amss.cas.cn/), Chinese Academy of Sciences, under the supervision of Professor [Yiguang Hong](http://lsc.amss.ac.cn/~yghong/index.html). Prior to this, I obtained Bachelor's degree in Mathematics and Applied Mathematics from the University of Chinese Academy of Sciences in 2018. I am now a visiting student at the [Australian Centre for Field Robotics](https://www.sydney.edu.au/engineering/our-research/robotics-and-intelligent-systems/australian-centre-for-field-robotics.html), University of Sydney, under the supervision of Associate Professor [Guodong Shi](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/guodong-shi.html).
 
 Research Insterest
 ======
