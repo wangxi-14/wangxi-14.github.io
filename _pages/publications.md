@@ -19,4 +19,4 @@ author_profile: true
 
 - **Riemannian Optimistic Algorithms**  
   **Wang, Xi**, Deming Yuan, Yiguang Hong, Zihao Hu, Lei Wang and Guodong Shi*  
-  JMLR Under Review | \[<a href="../files/Riemannian_Optimistic_Algorithm.pdf" download="cv.pdf">paper</a> , [code](https://github.com/RiemannianOCO/DynamicReg)\]
+  JMLR Under Review | \[<a href="../files/Riemannian_Optimistic_Algorithm.pdf" download="Riemannian_Optimistic_Algorithm.pdf">paper</a> , [code](https://github.com/RiemannianOCO/DynamicReg)\]
