@@ -33,7 +33,7 @@ author_profile: true
 
 - **Foundations and Trends in Riemannian Online Learning**  
    **Xi Wang** and Guodong Shi*  
-   submitted to Foundations and Trends® in Machine Learning, Under Review.
+   Submitted to Foundations and Trends® in Machine Learning, Under Review.
 
 - **Geometry-preserving Numerical Scheme for Riemannian Stochastic Differential Equations**  
   **Xi Wang** and Victor Solo*  
@@ -44,6 +44,6 @@ author_profile: true
   Submitted to IEEE Control Systems Letters, Under Review. \[[paper](http://arxiv.org/abs/2504.12650)\]  
 
 - **Stochastic Kinematic Optimal Control on SO(3)**  
-  \textbf{Xi Wang}, Xiaoyi Wang and Victor Solo* \[[paper](https://arxiv.org/abs/2412.08124)\]  
+  **Xi Wang**, Xiaoyi Wang and Victor Solo* \[[paper](https://arxiv.org/abs/2412.08124)\]  
 
 
