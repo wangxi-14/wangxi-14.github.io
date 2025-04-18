@@ -15,11 +15,11 @@ author_profile: true
 
 - **Riemannian Online Optimistic Algorithms with Dynamic Regret**  
   **Wang, Xi**, Deming Yuan, Yiguang Hong, Zihao Hu, Lei Wang and Guodong Shi*  
-IEEE Transactions on Automatic Control, Accepted for publication. | \[[paper](https://ieeexplore.ieee.org/document/10947566), [code](https://github.com/RiemannianOCO/DynamicReg)\]
+  IEEE Transactions on Automatic Control, Accepted for publication. | \[[paper](https://ieeexplore.ieee.org/document/10947566), [code](https://github.com/RiemannianOCO/DynamicReg)\]
 
 - **Distributed Riemannian Stochastic Gradient Tracking Algorithm on the Stiefel Manifold**
-    Jishu Zhao, **Xi Wang**, and Jinlong Lei*
-    Submitted to Automatica, provisionally accepted. \[ [paper](https://arxiv.org/abs/2405.16900) \]
+   Jishu Zhao, **Xi Wang**, and Jinlong Lei*
+   Submitted to Automatica, provisionally accepted. \[ [paper](https://arxiv.org/abs/2405.16900) \]
  
 - **Distributed Online Convex Optimization with Compressed Communication**  
   Zhipeng Tu, **Xi Wang**, Yiguang Hong*, Lei Wang, Deming Yuan, and Guodong Shi  
