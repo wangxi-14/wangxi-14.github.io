@@ -19,7 +19,7 @@ author_profile: true
 
 - **Distributed Riemannian Stochastic Gradient Tracking Algorithm on the Stiefel Manifold**  
    Jishu Zhao, **Xi Wang**, and Jinlong Lei*  
-   Submitted to Automatica, provisionally accepted. \[ [paper](https://arxiv.org/abs/2405.16900) \]
+   Submitted to Automatica, provisionally accepted. \[[paper](https://arxiv.org/abs/2405.16900)\]
  
 - **Distributed Online Convex Optimization with Compressed Communication**  
   Zhipeng Tu, **Xi Wang**, Yiguang Hong*, Lei Wang, Deming Yuan, and Guodong Shi   
