@@ -15,7 +15,7 @@ author_profile: true
 
 - **Riemannian Online Optimistic Algorithms with Dynamic Regret**  
   **Wang, Xi**, Deming Yuan, Yiguang Hong, Zihao Hu, Lei Wang and Guodong Shi*  
-IEEE Transactions on Automatic Control, Accepted for publication. | \[ [paper](https://ieeexplore.ieee.org/document/10947566), [code](https://github.com/RiemannianOCO/DynamicReg)\]
+IEEE Transactions on Automatic Control, Accepted for publication. | \[[paper](https://ieeexplore.ieee.org/document/10947566), [code](https://github.com/RiemannianOCO/DynamicReg)\]
 
 - **Distributed Riemannian Stochastic Gradient Tracking Algorithm on the Stiefel Manifold**
     Jishu Zhao, **Xi Wang**, and Jinlong Lei*
@@ -27,7 +27,7 @@ IEEE Transactions on Automatic Control, Accepted for publication. | \[ [paper](h
 
 - **Extragradient Type Methods for Riemannian Variational Inequality Problems**
    Zihao Hu, Guanghui Wang, **Xi Wang**, Andre Wibisono, Jacob D. Abernethy, and Molei Tao
-   The 27th International Conference on Artificial Intelligence and Statistics (AISTATS). \[ [paper](https://proceedings.mlr.press/v238/hu24c.html) \]
+   The 27th International Conference on Artificial Intelligence and Statistics (AISTATS). \[[paper](https://proceedings.mlr.press/v238/hu24c.html)\]
 
 *under review:*
 
@@ -37,13 +37,13 @@ IEEE Transactions on Automatic Control, Accepted for publication. | \[ [paper](h
 
 - **Geometry-preserving Numerical Scheme for Riemannian Stochastic Differential Equations**
   **Xi Wang** and Victor Solo*
-  Submitted to Automatica, Under Review. \[ [paper](http://arxiv.org/abs/2504.12631) \]
+  Submitted to Automatica, Under Review. \[[paper](http://arxiv.org/abs/2504.12631)\]
 
 - **Tangent Space Parametrization for Stochastic Differential Equations on SO(n)**
   **Xi Wang** and and Victor Solo*
-  Submitted to IEEE Control Systems Letters, Under Review. \[ [paper](http://arxiv.org/abs/2504.12650) \]
+  Submitted to IEEE Control Systems Letters, Under Review. \[[paper](http://arxiv.org/abs/2504.12650)\]
 
 - **Stochastic Kinematic Optimal Control on SO(3)**
-  \textbf{Xi Wang}, Xiaoyi Wang and Victor Solo* \[ [paper](https://arxiv.org/abs/2412.08124) \]
+  \textbf{Xi Wang}, Xiaoyi Wang and Victor Solo* \[[paper](https://arxiv.org/abs/2412.08124)\]
 
 
