@@ -7,11 +7,11 @@ author_profile: true
 
 - **Online Optimization over Riemannian Manifolds**  
   **Xi Wang**, Zhipeng Tu, Yiguang Hong, Yingyi Wu, and Guodong Shi*  
-  Journal of Machine Learning Research, Volume 24 | \[[paper](https://www.jmlr.org/papers/volume24/21-1308/21-1308.pdf), [code](https://github.com/RiemannianOCO/experiments)\]
+  Journal of Machine Learning Research, Volume 24. | \[[paper](https://www.jmlr.org/papers/volume24/21-1308/21-1308.pdf), [code](https://github.com/RiemannianOCO/experiments)\]
   
 - **No-regret Online Learning over Riemannian Manifolds**  
   **Xi Wang**, Zhipeng Tu, Yiguang Hong, Yingyi Wu, and Guodong Shi*  
-  The 35th conference on Neural Information Processing Systems (NeurIPS) | \[[paper](https://proceedings.neurips.cc/paper/2021/hash/ee389847678a3a9d1ce9e4ca69200d06-Abstract.html), [code](https://openreview.net/attachment?id=y8y6GJUL01H&name=code)\]
+  The 35th conference on Neural Information Processing Systems (NeurIPS). | \[[paper](https://proceedings.neurips.cc/paper/2021/hash/ee389847678a3a9d1ce9e4ca69200d06-Abstract.html), [code](https://openreview.net/attachment?id=y8y6GJUL01H&name=code)\]
 
 - **Riemannian Online Optimistic Algorithms with Dynamic Regret**  
   **Wang, Xi**, Deming Yuan, Yiguang Hong, Zihao Hu, Lei Wang and Guodong Shi*  
@@ -23,10 +23,27 @@ IEEE Transactions on Automatic Control, Accepted for publication. | \[ [paper](h
  
 - **Distributed Online Convex Optimization with Compressed Communication**  
   Zhipeng Tu, **Xi Wang**, Yiguang Hong*, Lei Wang, Deming Yuan, and Guodong Shi  
-  The 36th conference on Neural Information Processing Systems (NeurIPS)  \[[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/dececdcbf0ea0162234a8fb4ab051415-Abstract-Conference.html), [code](https://github.com/happy-math/CC-DOCO)\]
+  The 36th conference on Neural Information Processing Systems (NeurIPS).  \[[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/dececdcbf0ea0162234a8fb4ab051415-Abstract-Conference.html), [code](https://github.com/happy-math/CC-DOCO)\]
 
 - **Extragradient Type Methods for Riemannian Variational Inequality Problems**
    Zihao Hu, Guanghui Wang, **Xi Wang**, Andre Wibisono, Jacob D. Abernethy, and Molei Tao
-   The 27th International Conference on Artificial Intelligence and Statistics (AISTATS) \[ [paper](https://proceedings.mlr.press/v238/hu24c.html) \]
+   The 27th International Conference on Artificial Intelligence and Statistics (AISTATS). \[ [paper](https://proceedings.mlr.press/v238/hu24c.html) \]
+
+*under review:*
+
+- **Foundations and Trends in Riemannian Online Learning**
+   **Xi Wang** and Guodong Shi*
+   submitted to Foundations and Trends® in Machine Learning, Under Review.
+
+- **Geometry-preserving Numerical Scheme for Riemannian Stochastic Differential Equations**
+  **Xi Wang** and Victor Solo*
+  Submitted to Automatica, Under Review. \[ [paper](http://arxiv.org/abs/2504.12631) \]
+
+- **Tangent Space Parametrization for Stochastic Differential Equations on SO(n)**
+  **Xi Wang** and and Victor Solo*
+  Submitted to IEEE Control Systems Letters, Under Review. \[ [paper](http://arxiv.org/abs/2504.12650) \]
+
+- **Stochastic Kinematic Optimal Control on SO(3)**
+  \textbf{Xi Wang}, Xiaoyi Wang and Victor Solo* \[ [paper](https://arxiv.org/abs/2412.08124) \]
 
 
