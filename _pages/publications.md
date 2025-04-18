@@ -14,7 +14,7 @@ author_profile: true
   The 35th conference on Neural Information Processing Systems (NeurIPS). | \[[paper](https://proceedings.neurips.cc/paper/2021/hash/ee389847678a3a9d1ce9e4ca69200d06-Abstract.html), [code](https://openreview.net/attachment?id=y8y6GJUL01H&name=code)\]
 
 - **Riemannian Online Optimistic Algorithms with Dynamic Regret**    
-  **Wang, Xi**, Deming Yuan, Yiguang Hong, Zihao Hu, Lei Wang and Guodong Shi*  
+  **Xi Wang**, Deming Yuan, Yiguang Hong, Zihao Hu, Lei Wang and Guodong Shi*  
   IEEE Transactions on Automatic Control, Accepted for publication. | \[[paper](https://ieeexplore.ieee.org/document/10947566), [code](https://github.com/RiemannianOCO/DynamicReg)\]
 
 - **Distributed Riemannian Stochastic Gradient Tracking Algorithm on the Stiefel Manifold**  
